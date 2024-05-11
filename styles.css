@@ -1,0 +1,38 @@
+/************************************************************************************************************/
+/************************************************************************************************************/
+/*******************************SECCION PRECIOS CRYPTOMONEDAS SPC0001 ***************************************/
+/************************************************************************************************************/
+/************************************************************************************************************/
+.SPC0001-Section-body{
+    background-color: rgb(242, 253, 253);
+}
+.SPC0001-crypto-flag {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+
+  .SPC0001-crypto-details {
+    display: flex;
+    align-items: center;
+  }
+
+  .SPC0001-crypto-details h4,
+  .SPC0001-crypto-details p {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .SPC0001-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .SPC0001-container img {
+    margin-right: 25px; /* Espacio entre la imagen y el título */
+    margin-left: 25px;
+  }
